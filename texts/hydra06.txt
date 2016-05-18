@@ -1,0 +1,3 @@
+Doing a $65,000 job to set up a SQL data harvesting system for a university hospital's Second Life OpenSim system. Stress and deadlines yay!
+
+And yeah SL runs behind corporate firewalls now.
